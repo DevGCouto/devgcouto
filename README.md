@@ -1,42 +1,54 @@
-<h1 align="center">Gabriel Couto 👨‍💻</h1>
-<p align="center">🎓 Estudante de Desenvolvimento de Software | 💻 Em transição para TI | 🚀 Buscando oportunidades</p>
+<!-- Banner estilizado -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Gabriel%20Couto&fontSize=40&fontColor=ffffff&animation=twinkling" />
+</div>
+
+<div align="center">
+  <p>🎓 Estudante de Desenvolvimento de Software | 💻 Em transição para TI | 🚀 Buscando oportunidades</p>
+</div>
 
 ---
 
-### 👨‍🎓 Sobre mim
+## 🧑‍💻 Sobre mim
 
-Sou estudante de Desenvolvimento de Software na FATEC – Itaquera e apaixonado por tecnologia.  
-Tenho background em Geografia, mas encontrei na programação uma forma prática de resolver problemas.  
-Hoje, estudo principalmente desenvolvimento web (HTML, CSS, JS) e Python, sempre com projetos próprios.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-</p>
+- 📍 São Paulo - Brasil  
+- 💡 Apaixonado por tecnologia, organização e boas ideias  
+- 📚 Estudando: **HTML**, **CSS**, **JavaScript**, **Python**  
+- 🔄 Migrando da Geografia para a TI com propósito
 
 ---
 
-### 📂 Projetos em destaque
+## 🚀 Tecnologias
 
-- [💼 Currículo Online](https://devgcouto.github.io/curriculo/)
-- [🧶 Site de Ateliê em HTML/CSS (em breve)]()
-- [🗃️ Cadastro de usuários com Python + CSV (em breve)]()
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</div>
 
 ---
 
-### 📫 Contato
+## 🗂️ Meus Projetos
 
-<p align="center">
-  <a href="mailto:gabriel.fcoutor@gmail.com">📧 Email</a> |
-  <a href="https://www.linkedin.com/in/gabriel-fcouto/">💼 LinkedIn</a>
-</p>
+| Projeto | Descrição |
+|--------|-----------|
+| [🌐 Currículo Online](https://devgcouto.github.io/curriculo/) | Layout responsivo com modo escuro e HTML/CSS |
+| (em breve) | Página de ateliê, portfólio em React, API simples em Python |
+
+---
+
+## 📬 Contato
+
+<div align="center">
+  <a href="mailto:gabriel.fcoutor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gabriel.fcoutor@gmail.com-%237c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-fcouto/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Couto-%237c3aed?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer"/>
+</div>
 
